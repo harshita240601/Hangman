@@ -1,1 +1,1 @@
-This is my Python project.
+Hangman, A word guessing game using Tkinter GUI in Python.
